@@ -11,7 +11,7 @@
         "symfony/translation": "^5.4",
         "sabre/xml": "^2.2",
         "guzzlehttp/guzzle": "^7.7",
-        "phpunit/phpunit": "^9.6",
+        "phpunit/phpunit": "^13.1",
         "laminas/laminas-ldap": "^2.15",
         "ankitpokhrel/tus-php": "^2.3",
         "helmich/phpunit-json-assert": "^3.4"
